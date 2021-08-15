@@ -4,7 +4,6 @@ Tacoma Consignment is a "brick-and-mortar" retail consignment business specializ
 
 * Shopify (eCommerce and POS)
 * Stripe for consignor payout
-* Cloudinary for image storage and CDN
 * Azure SQL Server as master database and "source of truth" (open to discussion, but relational db preferred)
 * Auth0 for identity management of:
   * consignors
